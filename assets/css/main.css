@@ -1650,7 +1650,7 @@
 
 	a {
 		text-decoration: underline;
-		color: #336699;
+		color: #990A00;
 	}
 
 		a:hover {
@@ -1658,7 +1658,7 @@
 		}
 
 	strong, b {
-		color: #990A00;
+		color: #336699;
 		font-weight: 700;
 	}
 
