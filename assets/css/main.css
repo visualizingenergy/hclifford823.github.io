@@ -1658,7 +1658,7 @@
 		}
 
 	strong, b {
-		color: #484848;
+		color: #990A00;
 		font-weight: 700;
 	}
 
@@ -1700,7 +1700,7 @@
 
 	h5 {
 		font-size: 3em;
-		line-height: 1.5em;
+		line-height: 1.0em;
 	}
 
 	h6 {
@@ -2586,7 +2586,7 @@
 	header h5 + p {
 		font-size: 2.5em;
 		margin-top: -0.2em;
-		line-height: 1.5em;
+		line-height: 1.0em;
 	}
 
 	header.major {
