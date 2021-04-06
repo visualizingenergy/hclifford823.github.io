@@ -1650,7 +1650,7 @@
 
 	a {
 		text-decoration: underline;
-		color: #990A00;
+		color: #336699;
 	}
 
 		a:hover {
@@ -1658,7 +1658,7 @@
 		}
 
 	strong, b {
-		color: #336699;
+		color: #990A00;
 		font-weight: 700;
 	}
 
@@ -2745,7 +2745,7 @@
 		}
 
 		.wrapper.style5 {
-			background-color: #ffffff
+			background-color: #f6f6f6;
 			padding: 3em 0 3em 0;
 		}
 
@@ -3188,7 +3188,7 @@
 	}
 
 	#banner2 {
-		padding: 12em 0 11em 0;
+		padding: 16em 0 13em 0;
 		background-attachment: fixed;
 		background-image: url("images/overlay.png"), url("../../images/banner2.jpg");
 		background-position: center top;
