@@ -2585,7 +2585,7 @@
 	}
 
 	header.major {
-		margin: 0 0 6em 0;
+		margin: 0 0 0 0;
 	}
 
 		header.major h2 {
@@ -2605,8 +2605,7 @@
 	@media screen and (max-width: 1280px) {
 
 		header.major {
-			margin-bottom: 1em;
-			/*  */was 4
+			margin-bottom: 4em;
 		}
 
 			header.major h2 {
