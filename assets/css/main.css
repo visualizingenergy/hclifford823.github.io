@@ -2334,11 +2334,11 @@
 		.image.set {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 150%;
+			width: 100%;
 		}
 
 			.image.set img {
-				width: 150%;
+				width: 75%;
 			}
 
 		.image.rounded {
