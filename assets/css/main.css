@@ -1800,6 +1800,7 @@
 			padding: 0;
 			color: #ffffff !important;
 			background-color:#ffffff;
+			display: inline-block;
 
 		}
 		.box.white {
@@ -1808,6 +1809,7 @@
 			padding: 0;
 			color: #ffffff !important;
 			background-color:#ffffff;
+			display: inline-block;
 
 		}
 
