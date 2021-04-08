@@ -2782,10 +2782,13 @@
 
 				}
 		.wrapper.style6 {
-			background-attachment: fixed;
-			background-image: url("images/overlay.png"), url("../../images/banner.jpg");
-			background-position: center center;
-			background-size: cover;
+
+		  background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		  /* min-height: 500px; */
+		  background-attachment: fixed;
+		  background-position: center center;
+		  background-repeat: no-repeat;
+		  background-size: cover;
 		}
 
 			.wrapper.style6 header.major {
