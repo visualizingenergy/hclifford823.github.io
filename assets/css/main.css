@@ -1792,6 +1792,21 @@
 			border: 0;
 			border-radius: 0;
 			padding: 0;
+
+		}
+		.box.altwhite {
+			border: 0;
+			border-radius: 0;
+			padding: 0;
+			color: #ffffff !important;
+
+		}
+		.box.white {
+			border: 0;
+			border-radius: 0;
+			padding: 0;
+			color: #ffffff !important;
+
 		}
 
 /* Button */
